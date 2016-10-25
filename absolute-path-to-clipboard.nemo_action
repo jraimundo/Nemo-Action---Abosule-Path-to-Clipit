@@ -1,0 +1,9 @@
+[Nemo Action]
+Active=true
+Name=Absolute path to clipboard
+Comment=Copy absolute path to clipboard using clipit
+Exec=<absolute-path-to-clipboard.sh %F>
+Icon-Name=edit-paste
+Selection=S
+Extensions=any
+
